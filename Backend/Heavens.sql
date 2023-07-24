@@ -1,5 +1,5 @@
-CREATE DATABASE informacion_geografica;
-USE informacion_geografica;
+CREATE DATABASE iglesiaHeavensMysqlDB;
+USE iglesiaHeavensMysqlDB;
 
 CREATE TABLE Departamentos (
     id_departamento INT AUTO_INCREMENT PRIMARY KEY,
