@@ -8,6 +8,8 @@ const conexionMySql = async () =>{
         user: process.env.USUARIO,
         password: process.env.PASSWORD,
     })
+
+    return conecionSQl
 }
 
 export {
